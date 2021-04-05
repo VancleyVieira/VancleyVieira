@@ -1,4 +1,4 @@
-<img align='right' src='https://steamuserimages-a.akamaihd.net/ugc/943938215527640122/4ABCFF7302E09830AD1E07020F9FA275530D8823/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false'>
+<img align='right' src='https://i.pinimg.com/474x/35/95/b9/3595b99ab495fa7adcc9b6ac9dac4656.jpg'>
 
 Olá, eu sou o Vancley 🤙🏾
 
