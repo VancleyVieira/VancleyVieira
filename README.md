@@ -1,4 +1,4 @@
-<img align='right' src='https://media-exp1.licdn.com/dms/image/C5603AQFjFvegcyv-NA/profile-displayphoto-shrink_200_200/0/1617658794967?e=1623283200&v=beta&t=F2Ul6xrB-RcCoVHhOvnEKgBrrJVlq3dm4KGP0Rh195Q'>
+<img align='right' src='https://brausen.com.br/wp-content/uploads/2020/03/hackerman.png'>
 
 Olá, eu sou o Vancley 🤙🏾
 
