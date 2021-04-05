@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align='right' src='https://media-exp1.licdn.com/dms/image/C5603AQFjFvegcyv-NA/profile-displayphoto-shrink_200_200/0/1617658794967?e=1623283200&v=beta&t=F2Ul6xrB-RcCoVHhOvnEKgBrrJVlq3dm4KGP0Rh195Q'>
 
-<!--
-**VancleyVieira/VancleyVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, eu sou o Vancley 🤙🏾
 
-Here are some ideas to get you started:
+Técnico em informática pela Etec Bento Carlos Botelho do Amaral, atualmente estudo Analise e Desenvolvimento de Sistemas pela Fatec Taguaritinga, estudando C, HTML, CSS e JAVASCRIPT.
+<br> sou jogador profissional de ludo nas horas vagas 🎲
+<br> um ser muito curioso e determinado, NÃO ME DESAFIE ❌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<b>Entre em contato:</b>
+<br>📧 vancleyskt@gmail.com 
+<br>🤓 https://www.linkedin.com/in/vancley-vieira-89b37920b/
+<br> Mas só se for me arrumar um emprego 👨🏾‍💻
+
