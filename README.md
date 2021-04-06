@@ -9,6 +9,6 @@ Técnico em informática pela Etec Bento Carlos Botelho do Amaral, atualmente es
 
 <b>Entre em contato:</b>
 <br>📧 vancleyskt@gmail.com 
-<br>🤓 https://www.linkedin.com/in/vancley-vieira-89b37920b/
+<br>🤓 www.linkedin.com/in/vancley-vieira
 <br> Mas só se for me arrumar um emprego 👨🏾‍💻
 
