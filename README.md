@@ -3,8 +3,8 @@
 Olá, eu sou o Vancley 🤙🏾
 
 Técnico em informática pela Etec Bento Carlos Botelho do Amaral, atualmente estudo Analise e Desenvolvimento de Sistemas pela Fatec Taguaritinga, estudando C, HTML, CSS e JAVASCRIPT.
-<br> <p>sou jogador profissional de sinuca nas horas vagas 🎱
-<br> <p>um ser muito curioso e determinado, NÃO ME DESAFIE ❌
+<br> sou jogador profissional de sinuca nas horas vagas 🎱
+<br> um ser muito curioso e determinado, NÃO ME DESAFIE ❌
 
 
 <b>Entre em contato:</b>
