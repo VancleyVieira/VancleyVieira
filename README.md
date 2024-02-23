@@ -1,6 +1,6 @@
 # Olá, eu sou o Vancley 🤙🏾
 
-#### Técnico em informática pela Etec Bento Carlos Botelho do Amaral, atualmente curso Análise e Desenvolvimento de Sistemas pela Fatec Taquaritinga 6° semestre, tenho 21 anos, trabalho como moto boy, porém busco me preparar para atuar como DEV num futuro proximo.
+#### Técnico em informática pela Etec Bento Carlos Botelho do Amaral, atualmente curso Análise e Desenvolvimento de Sistemas pela Fatec Taquaritinga 6° semestre, tenho 22 anos, trabalho como moto boy, porém busco me preparar para atuar como DEV num futuro proximo.
 
 ### Conhecimentos Básicos:
 <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
   <img align="center" alt="Vancley-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 </div>
 
-### Busco me aprofundar em 2023: 
+### Busco me aprofundar em 2024: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vancley-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vancley-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
