@@ -1,21 +1,12 @@
 # Olá, eu sou o Vancley 🤙🏾
 
-#### Técnico em informática pela Etec Bento Carlos Botelho do Amaral, atualmente curso Análise e Desenvolvimento de Sistemas pela Fatec Taquaritinga 6° semestre, tenho 22 anos, trabalho como moto boy, porém busco me preparar para atuar como DEV num futuro proximo.
+#### 💻 Futuro Desenvolvedor Back-end 🚀
 
-### Conhecimentos Básicos:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vancley-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Vancley-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vancley-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Vancley-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Vancley-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-</div>
+<br>Tenho formação em Análise e Desenvolvimento de Sistemas e curto resolver problemas com código. Tenho conhecimentos básicos em Java e bancos de dados como MySQL, PostgreSQL e SQL Server, com alguns projetos pessoais para praticar.
 
-### Busco me aprofundar em 2024: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vancley-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Vancley-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Vancley-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></div>
+<br>Atualmente, estou focado em me aprofundar no Golang, explorando seu ecossistema e construindo novos projetos para evoluir na área de desenvolvimento de software.
+
+<br>Se quiser trocar uma ideia sobre tecnologia ou acompanhar minha jornada, bora conectar! 😃
 
 <br> sou jogador profissional de sinuca nas horas vagas 🎱
 <br> um ser muito curioso e determinado, NÃO ME DESAFIE ❌
